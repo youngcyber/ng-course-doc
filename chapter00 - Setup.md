@@ -5,7 +5,9 @@ chapter00 - Setup
 
 - [Sublime Text 3](http://www.sublimetext.com/3)
 - [Chrome's LiveReload Extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=EN)
+- [Chrome's Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
 - [Firefox's LiveReload Add-On](https://addons.mozilla.org/en-us/firefox/addon/livereload/)
+- [Firefox's RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/)
 - [Node.js](https://nodejs.org/download/)
 
 ### สร้าง Project Folder
