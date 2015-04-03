@@ -27,7 +27,7 @@ chapter00 - Setup
 
 รายชือ Packages
 
-- *Emmet*
+- *HTML5*
 - *SublimeCodeIntel*
 - *AngularJS*
 - *AngularJS Snippets*
