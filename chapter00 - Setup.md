@@ -10,6 +10,28 @@ chapter00 - Setup
 - [Firefox's RESTClient](https://addons.mozilla.org/en-US/firefox/addon/restclient/)
 - [Node.js](https://nodejs.org/download/)
 
+### ติดตั้ง Sublime Package Control
+
+![](http://i.cubeupload.com/aZmNsp.png)
+
+1. [packagecontrol.io](https://packagecontrol.io/installation)
+2. Copy *script* ในแท็บ *Sublime Text 3*
+3. มายังโปรแกรม Sublime Text 3 เลือกเมนู View -> Show Console
+4. Paste *script* ในช่่อง Console และกด *Enter*
+
+### ติดตั้ง Sublime Packages
+
+1. กด *Ctrl* + *Shift* + *P* (OSX กด *Cmd* + *Shift* + *P*)
+2. พิมพ์ *install* เลือก *Package Control: Install Package* กด *Enter*
+3. พิมพ์ชื่อ Package ที่ต้องการ และกด *Enter*
+
+รายชือ Packages
+
+- *Emmet*
+- *SublimeCodeIntel*
+- *AngularJS*
+- *AngularJS Snippets*
+
 ### สร้าง Project Folder
 
 1. สร้าง Folder สำหรับเก็บ Project สามารถสร้างไว้ที่ใดก็ได้เช่น *C:\ng-course*
