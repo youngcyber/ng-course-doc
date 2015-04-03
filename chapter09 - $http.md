@@ -141,12 +141,10 @@ chapter09 - $http
 
 	<h3>Employee</h3>
 
-	<div ng-controller="EmployeeController">
-		<p ng-repeat="e in employees">
-			<a href="#/employee/{{e.emp_no}}">{{ e.emp_no }}</a>
-			{{ e.first_name + ' ' + e.last_name }}
-		</p>
-	</div>
+	<p ng-repeat="e in employees">
+		<a href="#/employee/{{e.emp_no}}">{{ e.emp_no }}</a>
+		{{ e.first_name + ' ' + e.last_name }}
+	</p>
 
 ### Delete Employee
 
